@@ -2,7 +2,7 @@
 
 Sou um Dev front-end com experiência em tecnologias JavaScript, principalmente *REACT*, *ANGULAR* e até o finado Angular JS. Antes de codar, utilizo minhas habilidades em Design *UI/UX* para fazer telinhas bonitas e interativas. 😉
 
-- 🔭 Estou trabalhando como freelancer e com projetos pessoais;
+- 🔭 Estou trabalhando como professor de T.I, freelancer e com projetos pessoais;
 - 🌱 Atualmente estou estudando React Native, Angular, Node JS e Next JS;
 
 ## Experiências: 
